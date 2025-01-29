@@ -6,12 +6,12 @@ Este projeto demonstra a aplicação de **criptografia assimétrica** utilizando
 ## 🔑 O que é Criptografia?
 Criptografia é uma técnica utilizada para proteger informações, tornando-as inacessíveis para pessoas não autorizadas. Existem dois principais tipos de criptografia:
 
-### 🔹 Criptografia Simétrica
+### 🔑 Criptografia Simétrica
 Na criptografia simétrica, a mesma chave é usada para **criptografar e descriptografar** os dados. Exemplo:
 - Algoritmo **AES** (Advanced Encryption Standard).
 - Exemplo de uso: **Wi-Fi com WPA2**.
 
-> 🚨 **Desvantagem**: Se a chave for comprometida, qualquer pessoa poderá descriptografar os dados.
+>  **Desvantagem**: Se a chave for comprometida, qualquer pessoa poderá descriptografar os dados.
 
 ### 🔹 Criptografia Assimétrica
 Na criptografia assimétrica, existem **duas chaves**:
@@ -30,12 +30,12 @@ Aplicações web estão sujeitas a várias vulnerabilidades. Algumas das mais co
 - **Brute Force Attack**: Tentativas automáticas de adivinhar senhas.
 - **Man-in-the-Middle (MITM)**: Um atacante intercepta a comunicação entre dois usuários.
 
-### 🔐 Como Proteger?
+### Como Proteger?
 - Utilize **criptografia** para armazenar senhas.
 - Valide **entradas do usuário** para evitar SQL Injection e XSS.
 - Implemente **autenticação de dois fatores (2FA)**.
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 ### 1️⃣ Instalar Dependências
 Certifique-se de ter o **Node.js** instalado. Em seguida, instale os pacotes necessários:
 ```sh
@@ -53,6 +53,7 @@ node nome_do_arquivo.js
 ## 📌 Link do Repositório
 https://github.com/Victor14791012/TRABALHO-FINAL-NP2-SI
 
-📢 **Feito por:** Victor Hugo Lourenço de Carvalho
-📚 **Turma:** INFO 6B
+**Feito por:** Victor Hugo Lourenço de Carvalho
+**Feito por:** Bruno Almeida
+**Turma:** INFO 6B
 
